@@ -34,7 +34,7 @@ The project uses Twitter sentiment analysis as a practical case study to tackle 
 
 The project follows a systematic machine learning pipeline:
 
-1.  **Data Ingestion:** Loaded a dataset of 10,000+ tweets with pre-labeled sentiments.
+1.  **Data Ingestion:** Loaded a dataset of 73,000+ tweets with pre-labeled sentiments.
 2.  **Text Preprocessing & Cleaning:** Applied a series of NLP techniques to clean and normalize the text data.
 3.  **Feature Extraction (Word Embeddings):** Trained a Word2Vec model on the cleaned corpus to generate dense vector embeddings for each word.
 4.  **Model Building:** Constructed a Bi-LSTM model using Keras, designed to process sequential data effectively.
